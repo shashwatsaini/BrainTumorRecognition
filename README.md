@@ -1,5 +1,5 @@
 # BrainTumorRecognition
-A Brain Tumor Recognition model using VGG16, running on this dataset: [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+A Brain Tumor Recognition model with 90% accuracy, using VGG16, running on this dataset: [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 
 The model can distinguish between meningioma, and pituitary tumor, or no tumor at all.
 
